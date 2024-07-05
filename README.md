@@ -71,7 +71,10 @@ Serdar Kızılkale: Developer
 Toplam Puan 240 olarak hesaplanmıştır. İlk Sprint için 40 puanlık hedef belirlenmiştir.
 
 # 1. Sprint İnceleme:
+- Haberleşmelerin WhatsApp üzerinden yapılmasına karar verildi.
 - Grubumuz 4 kişi kalmıştı. İlk bir tanışma toplantısı gerçekleştirdik ve 2 gün araştırma yapıp tekrar toplantı için sözleştik.
 - Grubumuz tamamlandı ve fikir alışverişi için ikinci toplantımızı gerçekleştirdik. Oy birliği ile 'Koçluk Sistemi' yapmaya karar verdik.Bu toplantıda uygulamamızın ismine de karar verdik.
 - Logo tasarımı için Seray ve Şeyma Nur arkadaşımız çalışmalar yaptı, bir logoya karar verildi.
 - Figma üzerinden giriş ekranı ve diğer sayfaların tasarımı Seray ve Şeyma Nur tarafından gerçekleştirildi.
+- Birinci buton kodları Şeyma Nur tarafından yazılmaya başlandı.
+- Yapılan tasarımlar ve haberleşme screenshotları repo içerisine eklenmişir.
