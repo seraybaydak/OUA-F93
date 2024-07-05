@@ -1,4 +1,4 @@
-# OUF/93
+# OUA/F93
 
 Seray Baydak: Scrum Master
 Zeynep Sena Yıldıran: Product Owner
