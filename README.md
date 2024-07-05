@@ -1,9 +1,13 @@
 # OUA/F93
 
 Seray Baydak: Scrum Master
+
 Zeynep Sena Yıldıran: Product Owner
+
 Şeyma Nur Şahin: Developer
+
 Ömer Önder Önal: Developer
+
 Serdar Kızılkale: Developer
 
 
